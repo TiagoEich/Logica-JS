@@ -4,7 +4,7 @@ Este repositório reúne exercícios e projetos realizados durante os cursos da 
 
 ## 🚀 Tecnologias utilizadas
 
-- JavaScript (ES6+)
+- JavaScript
 - VS Code
 - Git & GitHub
 
